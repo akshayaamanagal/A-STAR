@@ -47,7 +47,7 @@
     e) push q on the closed list
     end (while loop)
 
-``````
+
 ## PROGRAM:
 ```python
 from collections import defaultdict
